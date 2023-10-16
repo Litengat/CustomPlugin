@@ -1,0 +1,6 @@
+name: CustomPlugin
+version: '1.0-SNAPSHOT'
+main: net.litengut.customplugin.CustomPlugin
+api-version: '1.20'
+commands:
+  customItem:

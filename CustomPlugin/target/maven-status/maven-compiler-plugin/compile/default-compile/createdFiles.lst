@@ -1,0 +1,11 @@
+net\litengut\customplugin\utility\Meta.class
+net\litengut\customplugin\Custom\Item$1.class
+net\litengut\customplugin\utility\CustomBlockData.class
+net\litengut\customplugin\cmds\CustomItemCmd.class
+net\litengut\customplugin\utility\ProgressBar.class
+net\litengut\customplugin\CustomPlugin.class
+net\litengut\customplugin\Custom\CustomBlock.class
+net\litengut\customplugin\Custom\Item.class
+net\litengut\customplugin\listeners\Conection.class
+net\litengut\customplugin\utility\PlayerBossBar.class
+net\litengut\customplugin\listeners\click.class
